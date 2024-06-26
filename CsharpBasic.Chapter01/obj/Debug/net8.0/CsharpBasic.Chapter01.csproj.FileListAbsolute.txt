@@ -1,0 +1,14 @@
+C:\Csharp\CsharpBasic.Chapter01\bin\Debug\net8.0\CsharpBasic.Chapter01.exe
+C:\Csharp\CsharpBasic.Chapter01\bin\Debug\net8.0\CsharpBasic.Chapter01.deps.json
+C:\Csharp\CsharpBasic.Chapter01\bin\Debug\net8.0\CsharpBasic.Chapter01.runtimeconfig.json
+C:\Csharp\CsharpBasic.Chapter01\bin\Debug\net8.0\CsharpBasic.Chapter01.dll
+C:\Csharp\CsharpBasic.Chapter01\bin\Debug\net8.0\CsharpBasic.Chapter01.pdb
+C:\Csharp\CsharpBasic.Chapter01\obj\Debug\net8.0\CsharpBasic.Chapter01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\CsharpBasic.Chapter01\obj\Debug\net8.0\CsharpBasic.Chapter01.AssemblyInfoInputs.cache
+C:\Csharp\CsharpBasic.Chapter01\obj\Debug\net8.0\CsharpBasic.Chapter01.AssemblyInfo.cs
+C:\Csharp\CsharpBasic.Chapter01\obj\Debug\net8.0\CsharpBasic.Chapter01.csproj.CoreCompileInputs.cache
+C:\Csharp\CsharpBasic.Chapter01\obj\Debug\net8.0\CsharpBasic.Chapter01.dll
+C:\Csharp\CsharpBasic.Chapter01\obj\Debug\net8.0\refint\CsharpBasic.Chapter01.dll
+C:\Csharp\CsharpBasic.Chapter01\obj\Debug\net8.0\CsharpBasic.Chapter01.pdb
+C:\Csharp\CsharpBasic.Chapter01\obj\Debug\net8.0\CsharpBasic.Chapter01.genruntimeconfig.cache
+C:\Csharp\CsharpBasic.Chapter01\obj\Debug\net8.0\ref\CsharpBasic.Chapter01.dll

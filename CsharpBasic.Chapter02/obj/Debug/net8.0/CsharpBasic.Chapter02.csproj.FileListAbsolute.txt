@@ -1,0 +1,14 @@
+C:\Csharp\CsharpBasic.Chapter02\bin\Debug\net8.0\CsharpBasic.Chapter02.exe
+C:\Csharp\CsharpBasic.Chapter02\bin\Debug\net8.0\CsharpBasic.Chapter02.deps.json
+C:\Csharp\CsharpBasic.Chapter02\bin\Debug\net8.0\CsharpBasic.Chapter02.runtimeconfig.json
+C:\Csharp\CsharpBasic.Chapter02\bin\Debug\net8.0\CsharpBasic.Chapter02.dll
+C:\Csharp\CsharpBasic.Chapter02\bin\Debug\net8.0\CsharpBasic.Chapter02.pdb
+C:\Csharp\CsharpBasic.Chapter02\obj\Debug\net8.0\CsharpBasic.Chapter02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\CsharpBasic.Chapter02\obj\Debug\net8.0\CsharpBasic.Chapter02.AssemblyInfoInputs.cache
+C:\Csharp\CsharpBasic.Chapter02\obj\Debug\net8.0\CsharpBasic.Chapter02.AssemblyInfo.cs
+C:\Csharp\CsharpBasic.Chapter02\obj\Debug\net8.0\CsharpBasic.Chapter02.csproj.CoreCompileInputs.cache
+C:\Csharp\CsharpBasic.Chapter02\obj\Debug\net8.0\CsharpBasic.Chapter02.dll
+C:\Csharp\CsharpBasic.Chapter02\obj\Debug\net8.0\refint\CsharpBasic.Chapter02.dll
+C:\Csharp\CsharpBasic.Chapter02\obj\Debug\net8.0\CsharpBasic.Chapter02.pdb
+C:\Csharp\CsharpBasic.Chapter02\obj\Debug\net8.0\CsharpBasic.Chapter02.genruntimeconfig.cache
+C:\Csharp\CsharpBasic.Chapter02\obj\Debug\net8.0\ref\CsharpBasic.Chapter02.dll
